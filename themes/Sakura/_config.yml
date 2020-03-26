@@ -1,0 +1,156 @@
+# site name
+prefixName: 野行Yeye
+siteName: 不上班公社
+# favicon and site master avatar
+favicon: /images/favicon.ico
+avatar: /img/custom/avatar.jpg
+url: https://sakura.hojun.cn
+description: Live your life with passion! With some drive!
+# cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+cdn: http://q7fm0u7rl.bkt.clouddn.com
+pjax: 1
+# 1开启
+mathjax: 0
+
+notice: yeye的不上班公社网站开始更新来，小伙伴们快来啊
+lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+
+# menus:
+#   首页: { path: /, fa: fa-fort-awesome faa-shake }
+#   归档: { path: /archives, fa: fa-archive faa-shake, submenus: { 
+#     技术: {path: /categories/技术/, fa: fa-code }, 
+#     生活: {path: /categories/生活/, fa: fa-file-text-o }, 
+#     资源: {path: /categories/资源/, fa: fa-cloud-download }, 
+#     随想: {path: /categories/随想/, fa: fa-commenting-o },
+#     转载: {path: /categories/转载/, fa: fa-book }
+#   } }
+#   清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
+#     书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
+#     番组: {path: /bangumi/, fa: fa-film faa-vertical }, 
+#     歌单: {path: /music/, fa: fa-headphones },
+#     图集: {path: /tags/图集/, fa: fa-photo }
+#   } }
+#   留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
+#   友人帐: { path: /links/, fa: fa-link faa-shake }
+#   赞赏: { path: /donate/, fa: fa-heart faa-pulse }
+#   关于: { path: /, fa: fa-leaf faa-wrench , submenus: { 
+#     我？: {path: /about/, fa: fa-meetup}, 
+#     主题: {path: /theme-sakura/, fa: iconfont icon-sakura },
+#     Lab: {path: /lab/, fa: fa-cogs },
+#   } }
+#   客户端: { path: /client/, fa: fa-android faa-vertical }
+#   RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
+
+menus:
+  首页: { path: /, fa: fa-fort-awesome faa-shake}
+  数字游民: { path: javascript:;, fa: fa-archive faa-shake,
+    submenus: { 
+      生活方式: {path: /categories/生活方式/ }, 
+      游民故事: {path: /categories/游民故事/ }, 
+      资源工具: {path: /categories/资源工具/ }, 
+      理财: {path: /categories/理财/},
+  } }
+  环球旅居: { path: javascript:;, fa: fa-list-ul faa-vertical, 
+    submenus: { 
+      如何旅行: {path: /categories/如何旅行/ }, 
+      旅行故事: {path: /categories/旅行故事/ }
+  } }
+  自我提升: { path: javascript:;, fa: fa-pencil-square-o faa-tada,
+    submenus: { 
+      思维模式: {path: /categories/思维模式/ }, 
+      读书: {path: /categories/读书/ }, 
+      播客: {path: /categories/博客/ }
+  } }
+  英文工具化: { path: javascript:;, fa: fa-leaf faa-wrench ,
+    submenus: { 
+      学习经历: {path: /categories/学习经历/ }, 
+      运用思维: {path: /categories/运用思维/ }, 
+      学习包: {path: /categories/学习包/ }, 
+      资源: {path: /categories/资源/}
+  } }
+  宝石买手: { path: javascript:;, fa: fa-heart faa-pulse,
+    submenus: { 
+      祖母绿花园: {path: /categories/祖母绿花园/ }, 
+      GIA证书钻石: {path: /categories/GIA证书钻石/ }, 
+      红蓝宝石: {path: /categories/红蓝宝石/ }, 
+      海蓝宝: {path: /categories/海蓝宝/},
+      求婚/婚礼定制: {path: /categories/求婚婚礼定制/},
+      其他: {path: /categories/其他/}
+
+  } }
+# Home page sort type: -1: newer first，1: older first.
+homePageSortType: -1
+# Home page article shown number)
+homeArticleShown: 10
+# 背景图片 更好的修改
+bg:
+  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(1).jpg.webp
+  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(2).jpg.webp
+  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(3).jpg.webp
+  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(4).jpg.webp
+  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(5).jpg.webp
+  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(6).jpg.webp
+  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(7).jpg.webp
+  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(8).jpg.webp
+
+# 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
+bgclass: filter-dot
+
+# startdash url, title, desc img
+startdash: 
+  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/startdash/sakura.md.png}
+  - {url: http://space.bilibili.com/271849279, title: Bilibili, desc: 博主的b站视频, img: /img/startdash/bilibili.jpg}
+  - {url: /, title: 宝石买手, desc: 宝石相关服务, img: /img/startdash/wangshiwu.jpg}
+
+
+
+# your site build time or founded date
+siteBuildingTime: 03/25/2020
+
+#social  url, img PC端配置
+social:
+  # github: {url: http://github.com/honjun, img: /img/social/github.png}
+  douban: {url: https://www.douban.com/people/153893105/, img: /img/douban_32px_1164416_easyicon.net.png}
+  sina: {url: https://weibo.com/666daye888/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1&display=0&retcode=6102, img: /img/sina.png}
+  # wangyiyun: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/wangyiyun.png}
+  ximalaya: {url: http://weibo.com/mashirozx?is_all=1, img: /img/fm_radio_32px_1107413_easyicon.net.png}
+  zhihu: {url: http://weibo.com/mashirozx?is_all=1, img: /img/zhihu.png}
+  email: {url: fuyework@gmail.com, img: /img/email.svg}
+  wechat: {url: /#, qrcode: /img/wechat.jpg, img: /img/wechat.png}
+
+#social  url, img 移动端配置
+msocial:
+  # github: {url: http://github.com/honjun, fa: fa-github, color: 333}
+  
+  weibo: {url: http://weibo.com/mashirozx?is_all=1, fa: fa-weibo, color: dd4b39}
+  wechat: {url: https://www.douban.com/people/153893105/, fa: fa-wechat, color: 25c6fe}
+
+donate:
+  # paypal: https://www.paypal.me/hojuncn
+  alipay: /img/custom/donate/AliPayQR.jpg
+  wechat: /img/custom/donate/WeChanQR.jpg
+  wechatSQ: /img/custom/donate/WeChanSQ.jpg
+
+# 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
+movies:
+  url: https://cdn.jsdelivr.net/gh/honjun/hojun@1.2
+  # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
+  name: Unbroken.mp4
+
+aplayer: 
+  id: 2660651585
+  server: netease
+  type: playlist
+  fixed: true
+  autoplay: false
+  loop: all
+  order: random
+  preload: auto
+  volume: 0.7
+  mutex: true
+
+# Valine
+valine: true
+v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
+v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
+
