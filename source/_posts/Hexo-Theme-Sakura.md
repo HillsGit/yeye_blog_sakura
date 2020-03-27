@@ -5,7 +5,7 @@ avatar: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/avatar.jpg
 authorLink: hojun.cn
 authorAbout: 一个好奇的人
 authorDesc: 一个好奇的人
-categories: 技术
+categories: 生活方式
 date: 2018-12-12 22:16:01
 comments: true
 tags: 
