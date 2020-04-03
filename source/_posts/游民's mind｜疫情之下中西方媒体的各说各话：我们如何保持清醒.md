@@ -2,8 +2,8 @@
 title: 游民's mind｜疫情之下中西方媒体的各说各话：我们如何保持清醒
 date: 2020-03-06 20:19:51
 avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
-tags: 生活方式
-categories: 生活方式
+tags: 
+categories: 思维模式
 photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
 ---
