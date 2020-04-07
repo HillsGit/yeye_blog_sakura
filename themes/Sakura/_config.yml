@@ -4,7 +4,7 @@ siteName: 不上班公社
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/photo.jpeg
-url: https://sakura.hojun.cn
+url: http://yeslifeisfun.club/
 description: Life is fun!
 # cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
 cdn: http://q7fm0u7rl.bkt.clouddn.com
@@ -78,6 +78,8 @@ menus:
       其他: {path: /categories/其他/}
 
   } }
+  友链: { path: /links/, fa: fa-link faa-shake }
+
 # Home page sort type: -1: newer first，1: older first.
 homePageSortType: -1
 # Home page article shown number)
@@ -98,8 +100,8 @@ bgclass: filter-dot
 
 # startdash url, title, desc img
 startdash: 
-  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/banner1.jpeg}
-  - {url: http://space.bilibili.com/271849279, title: Bilibili, desc: 博主的b站视频, img: /img/banner2.jpeg}
+  - {url: /theme-sakura/, title: 知识星球, desc: 知识的海洋, img: /img/banner1.jpeg}
+  - {url: https://www.ximalaya.com/jiaoyu/29658030/, title: 喜马拉雅, desc: 博主的喜马拉雅, img: /img/banner2.jpeg}
   - {url: /, title: 宝石买手, desc: 宝石相关服务, img: /img/banner3.jpeg}
 
 
@@ -128,7 +130,7 @@ msocial:
 donate:
   # paypal: https://www.paypal.me/hojuncn
   alipay: /img/zhifubaodashang.jpeg
-  wechat: /img/weixindashang.jpeg)
+  wechat: /img/weixinzanshang.jpeg
   #wechatSQ: /img/custom/donate/WeChanSQ.jpg
 
 # 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
@@ -150,7 +152,7 @@ aplayer:
   mutex: true
 
 # Valine
-valine: true
-v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
-v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
+# valine: true
+# v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
+# v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
 
