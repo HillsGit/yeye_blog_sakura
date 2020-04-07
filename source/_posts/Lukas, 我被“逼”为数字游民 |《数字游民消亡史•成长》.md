@@ -4,7 +4,7 @@ date:  2020-01-10 20:34:01
 avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
 tags: 
 categories: 游民故事
-photo: 
+photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200110.png
 ---
 
 我是数字游民Yeye，一枚内容创业者/宝石买手/写作者，擅长项目管理与英文，环球慢旅行，坚持每周给你旅行 | 工作 | 生活干货，和故事零食。

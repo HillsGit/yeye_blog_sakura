@@ -4,7 +4,7 @@ date:  2019-07-05 20:34:01
 avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
 tags: 
 categories: 如何旅行
-photo: 
+photo: http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403145750148.jpeg
 ---
 
 嗨咯

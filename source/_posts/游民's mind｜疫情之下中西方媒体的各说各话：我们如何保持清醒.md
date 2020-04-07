@@ -5,7 +5,6 @@ avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
 tags: 
 categories: 思维模式
 photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
-
 ---
 
 **导语**

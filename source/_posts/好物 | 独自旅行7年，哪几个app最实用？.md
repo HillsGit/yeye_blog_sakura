@@ -1,10 +1,10 @@
 ---
 title: 好物 | 独自旅行7年，哪几个app最实用？
-date:  2019-07-05 20:34:01
+date:  2019-12-06 20:34:01
 avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
 tags: 
 categories: 如何旅行
-photo: 
+photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191206.png
 ---
 
 阅读大概需要3分钟，或者马马收藏起来，你肯定用到的。

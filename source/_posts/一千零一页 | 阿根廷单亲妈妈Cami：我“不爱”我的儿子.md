@@ -4,7 +4,7 @@ date:  2019-12-20 20:34:01
 avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
 tags: 
 categories: 旅行故事
-photo: 
+photo: http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232524476.jpeg
 ---
 
 我是数字游民Yeye，远程办公，环球慢旅行，坚持每周给你旅行 | 工作 | 生活干货，和故事零食。文章在头条／豆瓣／微博［野行yeye］同步发布。
