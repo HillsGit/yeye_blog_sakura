@@ -1,10 +1,10 @@
 ---
 title: 游民's mind｜疫情之下中西方媒体的各说各话：我们如何保持清醒
 date: 2020-03-06 20:19:51
-avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
+avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 
 categories: 思维模式
-photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
+photo: http://image.yeslifeisfun.club/img/fm20200306.png
 ---
 
 **导语**
@@ -43,11 +43,11 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640.png)
+![img](http://image.yeslifeisfun.club/img/640.png)
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320133928280.png)
+![img](http://image.yeslifeisfun.club/img/640-20200320133928280.png)
 
  问卷调查中对官方媒体的信任度并不比自媒体的高出许多数据。图片来源：yeye
 
@@ -103,7 +103,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320133936339.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200320133936339.jpeg)
 
 图片来源：网络
 
@@ -139,7 +139,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
  
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320133941122.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200320133941122.jpeg)
 
 （一些国际性平台媒体真的并没有很关注中国新闻，图片处理：公众号雾霾生存手册）
 
@@ -185,7 +185,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640.gif)
+![img](http://image.yeslifeisfun.club/img/640.gif)
 
 图片来源：网络
 
@@ -201,7 +201,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320133951068.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200320133951068.jpeg)
 
 图片来源：网络
 
@@ -229,7 +229,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 >
 > wiki how官网
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320133957013.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200320133957013.jpeg)
 
 图片来源：wikihow主页
 
@@ -246,9 +246,9 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320134005629.png)
+![img](http://image.yeslifeisfun.club/img/640-20200320134005629.png)
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320134001904.png)
+![img](http://image.yeslifeisfun.club/img/640-20200320134001904.png)
 
 问卷里部分小伙伴对甄选信息的建议，图片来源：yeye
 
@@ -278,7 +278,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320134012748.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200320134012748.jpeg)
 
 图片来源：网络
 
@@ -306,7 +306,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200306.png
 
 **FIN**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320134020014.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200320134020014.jpeg)
 
 
 

@@ -1,10 +1,10 @@
 ---
 title: 一千零一夜｜Sarah
 date:  2019-10-18 20:34:01
-avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
+avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 
 categories: 旅行故事
-photo: http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232610472.jpeg
+photo: http://image.yeslifeisfun.club//img640-20200406232610472.jpeg
 ---
 
 嗨我是数字游民Yeye, 远程办公，环球慢旅行，坚持每周给你旅行|工作|生活干货，和故事零食。
@@ -43,7 +43,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232610472.jpeg
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232610472.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232610472.jpeg)
 
 
 
@@ -89,7 +89,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232610472.jpeg
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232616724.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232616724.jpeg)
 
 **想象一下你一个人行走，“这片山都被我承包了”的爽快感哈哈哈**
 
@@ -127,7 +127,7 @@ Sara 看了一样全身包着的我，长健身裤＋防风薄外套＋口罩墨
 
 **乌树故里的小教堂**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232623462.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232623462.jpeg)
 
 **风吹草地见牛牛**
 
@@ -141,7 +141,7 @@ Sara 看了一样全身包着的我，长健身裤＋防风薄外套＋口罩墨
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232627602.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232627602.jpeg)
 
 **看地下，躺下，舒服**
 
@@ -297,7 +297,7 @@ Sara 看了一样全身包着的我，长健身裤＋防风薄外套＋口罩墨
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232636865.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232636865.jpeg)
 
 
 
@@ -381,7 +381,7 @@ Sarah很享受她一个人的旅程，结识的两个女生也很享受一直都
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232644057.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232644057.jpeg)
 
 **一个人旅行还是会遇到帮忙拍照的可爱同伴的，别怕**
 

@@ -1,10 +1,10 @@
 ---
 title: Lukas, 我被“逼”为数字游民 |《数字游民消亡史•成长》
 date:  2020-01-10 20:34:01
-avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
+avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 
 categories: 游民故事
-photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200110.png
+photo: http://image.yeslifeisfun.club/img/fm20200110.png
 ---
 
 我是数字游民Yeye，一枚内容创业者/宝石买手/写作者，擅长项目管理与英文，环球慢旅行，坚持每周给你旅行 | 工作 | 生活干货，和故事零食。
@@ -70,7 +70,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200110.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233243527.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233243527.jpeg)
 
 
 
@@ -119,7 +119,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200110.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233247849.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233247849.jpeg)
 
 Lukas在里斯本移动办公
 
@@ -178,7 +178,7 @@ Lukas在里斯本移动办公
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233252755.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233252755.jpeg)
 
 Lukas在里斯本与朋友冲浪
 
@@ -236,7 +236,7 @@ Lukas在里斯本与朋友冲浪
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233258631.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233258631.jpeg)
 
 Lukas在老家Kaprun滑雪
 
@@ -276,7 +276,7 @@ Lukas在老家Kaprun滑雪
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233303824.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233303824.jpeg)
 
 Lukas在玻利维亚乌尤尼盐湖
 
@@ -323,7 +323,7 @@ Lukas在玻利维亚乌尤尼盐湖
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233309344.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233309344.jpeg)
 
 Lukas在Peniche, 葡萄牙
 
@@ -349,7 +349,7 @@ Lukas过着许多数字游民的生活方式之一：远程办公。
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233313204.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233313204.jpeg)
 
 Lukas在huayana potosi， 玻利维亚
 

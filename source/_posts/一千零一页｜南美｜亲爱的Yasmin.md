@@ -1,10 +1,10 @@
 ---
 title: 一千零一页｜南美｜亲爱的Yasmin
 date: 2019-04-19 20:34:01
-avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
+avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 
 categories: 旅行故事
-photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20190419.png
+photo: http://image.yeslifeisfun.club/img/fm20190419.png
 ---
 
 **哈咯**
@@ -19,7 +19,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20190419.png
 
 今日第7页，南美篇哒。
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200320155200130.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200320155200130.jpeg)
 
 ***
 
@@ -37,7 +37,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20190419.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151800682.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151800682.jpeg)
 
 
 
@@ -65,13 +65,13 @@ Yasmin倒是个惊喜，她还是众多问东问西人里唯一一个现身的�
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151819038.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151819038.jpeg)
 
 基多城2小时路程，忘记名字求大神提醒
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151834727.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151834727.jpeg)
 
 小镇上有许多妇人在做手工衣物
 
@@ -111,7 +111,7 @@ Avo就是她打工过的餐厅之一。
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151838883.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151838883.jpeg)
 
 喜欢动不动就上瑜伽姿势的Yasmin
 
@@ -145,7 +145,7 @@ Yasmin之前来过这个小镇，在这里她打工换食，还和小店老板�
 
  
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151842673.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151842673.jpeg)
 
 菜单只有三个选择，餐桌也只有三张的Avo
 
@@ -167,7 +167,7 @@ Yasmin之前来过这个小镇，在这里她打工换食，还和小店老板�
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151849605.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151849605.jpeg)
 
 Avo家经常过来的一只流浪狗子。
 
@@ -189,13 +189,13 @@ Banos是厄瓜多尔南部的一个小镇，你可以在半个小时内走完镇
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151853116.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151853116.jpeg)
 
 公园‘野餐‘来一波
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151856215.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151856215.jpeg)
 
 午后的小镇，特别安静
 
@@ -209,7 +209,7 @@ Banos是厄瓜多尔南部的一个小镇，你可以在半个小时内走完镇
 
  
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151859232.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151859232.jpeg)
 
 我们一起去了小镇上的‘世界的尽头’，
 
@@ -219,7 +219,7 @@ Banos是厄瓜多尔南部的一个小镇，你可以在半个小时内走完镇
 
  
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151902013.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151902013.jpeg)
 
 小镇上还有几个特色项目。
 
@@ -259,13 +259,13 @@ Yasmin在着月光和一个滑板大叔在打空手道，Yasmin赢了！
 
  
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151905586.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151905586.jpeg)
 
 滑板蹦迪小组
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151908916.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151908916.jpeg)
 
 月光摔跤二人组
 
@@ -309,7 +309,7 @@ Yasmin喜欢在那里做瑜伽，嗯她还是一个瑜伽教练。我躺在秋�
 
  
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403151917430.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403151917430.jpeg)
 
 与Yasmin在小镇唯一一条公路上嬉闹
 

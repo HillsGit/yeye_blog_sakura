@@ -1,13 +1,13 @@
 ---
 title: 宝石盒子 | Propose in Paradise海外求婚计划
 date:  2020-03-13 20:34:01
-avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
+avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 
 categories: 求婚/婚礼定制
-photo: http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403173305126.jpeg
+photo: http://image.yeslifeisfun.club/img/640-20200403173305126.jpeg
 ---
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403173410564.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403173410564.jpeg)
 
 ### 海外求婚大作战计划
 
@@ -25,23 +25,23 @@ https://www.thechariot.co/propose-in-paradise-southeast-asia
 
 扫码围观更多好价格宝石宝贝：
 
-![image-20200403173422309](http://q7fm0u7rl.bkt.clouddn.com/img/image-20200403173422309.png)
+![image-20200403173422309](http://image.yeslifeisfun.club/img/image-20200403173422309.png)
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403173432390.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403173432390.jpeg)
 
 帕帕拉恰戒指，图源：Yeye
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403173441225.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403173441225.jpeg)
 
 灯泡感日本海水akoya珍珠手链， 图源：Yeye宝石伙伴
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403173448262.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403173448262.jpeg)
 
 皇家蓝宝石戒指
 
@@ -61,7 +61,7 @@ Chariot 'Propose in Paradise' is a private event planning service for people see
 
 Proposal packages include a fully decorated design for an exclusive lavish private dinner, your own film crew to capture your once in a lifetime moment, and of course, a plan for your proposal. Packages also include stays with partner resorts, romantic day tours, and more.
 
-![img](http://q7fm0u7rl.bkt.clouddn.com/img/640-20200403173305126.jpeg)
+![img](http://image.yeslifeisfun.club/img/640-20200403173305126.jpeg)
 
 图片来源：yeye
 

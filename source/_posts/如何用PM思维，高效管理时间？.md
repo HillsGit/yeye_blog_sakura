@@ -1,10 +1,10 @@
 ---
 title: 如何用PM思维，高效管理时间？
 date:  2019-12-13 20:34:01
-avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
+avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 
 categories: 项目管理
-photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191213.png
+photo: http://image.yeslifeisfun.club/img/fm20191213.png
 ---
 
 ### **导语**
@@ -30,7 +30,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191213.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406231156034.jpeg)图片来源：谷歌
+![img](http://image.yeslifeisfun.club//img640-20200406231156034.jpeg)图片来源：谷歌
 
 
 
@@ -68,7 +68,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191213.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406231200392.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406231200392.jpeg)
 
  图片来源：谷歌；冥想app：Headspace                
 
@@ -135,7 +135,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191213.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406231205229.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406231205229.jpeg)
 
 用上帝视角安排日常作息，但也不会强迫自己一定要100%执行，留15%的变动空间                               
 
@@ -191,7 +191,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191213.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406231308594.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406231308594.jpeg)
 
 图片来源：谷歌
 
@@ -217,7 +217,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191213.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406231334283.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406231334283.jpeg)
 
 图片来自谷歌
 
@@ -247,7 +247,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191213.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406231344864.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406231344864.jpeg)
 
 来，让你的眼睛，放松一下
 

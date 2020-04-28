@@ -1,10 +1,10 @@
 ---
 title: 好物 | 独自旅行7年，哪几个app最实用？
 date:  2019-12-06 20:34:01
-avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
+avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 
 categories: 如何旅行
-photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20191206.png
+photo: http://image.yeslifeisfun.club/img/fm20191206.png
 ---
 
 阅读大概需要3分钟，或者马马收藏起来，你肯定用到的。
@@ -71,11 +71,11 @@ Yeye从7年前（不小心暴露年龄）开始独自旅行，一路上旅途50%
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640.png)
+![img](http://image.yeslifeisfun.club//img640.png)
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225149432.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406225149432.jpeg)
 
 
 
@@ -93,7 +93,7 @@ Yeye从7年前（不小心暴露年龄）开始独自旅行，一路上旅途50%
 
 ![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225136903.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406225136903.jpeg)
 
 
 
@@ -127,7 +127,7 @@ Glovo：一个外卖软件，在欧洲北美南美都比较适用
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225209618.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225209618.png)
 
 （图片来源于网络）
 
@@ -137,7 +137,7 @@ Glovo：一个外卖软件，在欧洲北美南美都比较适用
 
 **hostelworld**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225215946.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225215946.png)
 
 （图片来源于网络）
 
@@ -147,7 +147,7 @@ Glovo：一个外卖软件，在欧洲北美南美都比较适用
 
 **Booking**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225354006.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225354006.png)
 
 （图片来源于网络）
 
@@ -159,7 +159,7 @@ Glovo：一个外卖软件，在欧洲北美南美都比较适用
 
 **Airbnb:** 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225331422.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225331422.png)
 
 
 
@@ -175,7 +175,7 @@ Glovo：一个外卖软件，在欧洲北美南美都比较适用
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225407910.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225407910.png)
 
 
 
@@ -207,7 +207,7 @@ facebook小组功能：这里要注意筛选，风险还是比其他平台大
 
 **Google map**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225444372.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225444372.png)
 
 （图片来源于网络）
 
@@ -217,7 +217,7 @@ facebook小组功能：这里要注意筛选，风险还是比其他平台大
 
 **Uber**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225458029.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225458029.png)
 
 （图片来源于网络）
 
@@ -229,7 +229,7 @@ facebook小组功能：这里要注意筛选，风险还是比其他平台大
 
 **Skyscanner**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225508147.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225508147.png)
 
 
 
@@ -251,7 +251,7 @@ facebook小组功能：这里要注意筛选，风险还是比其他平台大
 
 **去哪网**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225553662.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225553662.png)
 
 （图片来源于网络）
 
@@ -293,7 +293,7 @@ Mapsme：徒步时非常适合使用的软件
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225608191.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225608191.png)
 
 （图片来源于网络）
 
@@ -305,7 +305,7 @@ Mapsme：徒步时非常适合使用的软件
 
 **Couchsurfing**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225618898.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225618898.png)
 
 
 
@@ -317,7 +317,7 @@ Mapsme：徒步时非常适合使用的软件
 
 **苹果原声相机**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225628336.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225628336.png)
 
 少即是多1.0，也习惯了看没有滤镜的脸清爽
 
@@ -329,7 +329,7 @@ Mapsme：徒步时非常适合使用的软件
 
 **Instagram**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225637530.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225637530.png)
 
 少即是多1.1，调光调景一个即够
 
@@ -361,7 +361,7 @@ Evento：与中国的活动行类似
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225719025.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225719025.png)
 
  走路／坐车／做饭时的神器。今后我也会专门写一期
 
@@ -375,7 +375,7 @@ Evento：与中国的活动行类似
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225753190.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225753190.png)
 
 
 
@@ -393,7 +393,7 @@ Evento：与中国的活动行类似
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225806658.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225806658.png)
 
 
 
@@ -407,7 +407,7 @@ Evento：与中国的活动行类似
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225818110.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225818110.png)
 
 一个共享空间使用软件，全球几十个数字游民办公热门地可使用
 
@@ -421,7 +421,7 @@ Evento：与中国的活动行类似
 
 **Xcurrency**
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225834003.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225834003.png)
 
 只是看个大概，一般还是以当地的货币兑换中心确认
 
@@ -437,7 +437,7 @@ Evento：与中国的活动行类似
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225846344.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225846344.png)
 
 （图片来源于网络）
 
@@ -453,7 +453,7 @@ Evento：与中国的活动行类似
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406225855414.png)
+![img](http://image.yeslifeisfun.club//img640-20200406225855414.png)
 
 （图片来源于网络）
 

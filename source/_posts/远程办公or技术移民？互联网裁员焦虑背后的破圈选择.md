@@ -1,10 +1,10 @@
 ---
 title: 远程办公or技术移民？互联网裁员焦虑背后的破圈选择
 date:  2020-01-24 20:34:01
-avatar: http://q7fm0u7rl.bkt.clouddn.com/img/photo.jpeg
+avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 
 categories: 游民故事
-photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200124.png
+photo: http://image.yeslifeisfun.club/img/fm20200124.png
 ---
 
 ### 导语
@@ -45,7 +45,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200124.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232947576.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232947576.jpeg)
 
 图片来源：网络
 
@@ -93,7 +93,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200124.png
 
  
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232952311.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232952311.jpeg)
 
 图片来源：网络
 
@@ -169,7 +169,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200124.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406232957972.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406232957972.jpeg)
 
 图片来源：网络
 
@@ -227,7 +227,7 @@ photo: http://q7fm0u7rl.bkt.clouddn.com/img/fm20200124.png
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233003156.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233003156.jpeg)
 
 图片来源：网络
 
@@ -291,7 +291,7 @@ Voodoopad 。用来做笔记挺好的，可以用它来搭本地 wiki，所有�
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233008923.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233008923.jpeg)
 
 图片来源：网络
 
@@ -431,7 +431,7 @@ To－do list，Excel，画图工作（流程图，思维导图等）：
 
 
 
-![img](http://q7fm0u7rl.bkt.clouddn.com//img640-20200406233015715.jpeg)
+![img](http://image.yeslifeisfun.club//img640-20200406233015715.jpeg)
 
 图片来源：网络
 
