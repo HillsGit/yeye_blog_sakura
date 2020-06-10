@@ -1,5 +1,5 @@
 # site name
-prefixName: 野行Yeye
+prefixName: 
 siteName: 不上班公社
 # favicon and site master avatar
 favicon: /images/favicon.ico
@@ -12,7 +12,7 @@ pjax: 1
 # 1开启
 mathjax: 0
 
-notice: yeye的不上班公社网站开始更新来，小伙伴们快来啊
+notice: 高效率慢生活，解放工作时间与空间，在迷你退休中不断自我探索与成长
 lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
 
 # menus:
@@ -43,21 +43,25 @@ lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progre
 
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake}
-  数字游民: { path: javascript:;, fa: fa-archive faa-shake,
+  高效率慢生活: { path: javascript:;, fa: fa-archive faa-shake,
     submenus: { 
-      生活方式: {path: /categories/生活方式/ }, 
-      游民故事: {path: /categories/游民故事/ }, 
-      资源工具: {path: /categories/资源工具/ }, 
-      理财: {path: /categories/理财/},
+      高效率工具: {path: /categories/生活方式/ }, 
+      项目管理: {path: /categories/游民故事/ }, 
+      时间管理: {path: /categories/资源工具/ }, 
+      慢生活理财: {path: /categories/理财/},
+      可持续生活: {path: /categories/理财/},
+
   } }
-  环球旅居: { path: javascript:;, fa: fa-list-ul faa-vertical, 
+  环球数字游民: { path: javascript:;, fa: fa-list-ul faa-vertical, 
     submenus: { 
-      如何旅行: {path: /categories/如何旅行/ }, 
-      旅行故事: {path: /categories/旅行故事/ }
+      游民资讯: {path: /categories/如何旅行/ }, 
+      环球贴士: {path: /categories/旅行故事/ },
+      遇见人生: {path: /categories/旅行故事/ },
+      告别996的人: {path: /categories/旅行故事/ }
   } }
-  自我提升: { path: javascript:;, fa: fa-pencil-square-o faa-tada,
+  成长工具: { path: javascript:;, fa: fa-pencil-square-o faa-tada,
     submenus: { 
-      思维模式: {path: /categories/思维模式/ }, 
+      思维: {path: /categories/思维模式/ }, 
       读书: {path: /categories/读书/ }, 
       播客: {path: /categories/博客/ }
   } }
@@ -78,7 +82,9 @@ menus:
       其他: {path: /categories/其他/}
 
   } }
-  友链: { path: /links/, fa: fa-link faa-shake }
+  知识星球: { path: /links/, fa: fa-link faa-shake }
+  好物推荐: { path: /links/, fa: fa-link faa-shake }
+
 
 # Home page sort type: -1: newer first，1: older first.
 homePageSortType: -1
@@ -117,7 +123,7 @@ social:
   # wangyiyun: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/wangyiyun.png}
   ximalaya: {url: https://www.ximalaya.com/thirdparty/player/album/player.html?id=29658030&type=red, img: /img/fm_radio_32px_1107413_easyicon.net.png}
   zhihu: {url: https://www.zhihu.com/people/bushangbangongshe, img: /img/zhihu.png}
-  email: {url: fuyework@gmail.com, img: /img/email.svg}
+  email: {url: https://space.bilibili.com/451527880, img: /img/bilibili_1188648_easyicon.net.svg}
   wechat: {url: /#, qrcode: /img/wechat.jpg, img: /img/wechat.png}
 
 #social  url, img 移动端配置
