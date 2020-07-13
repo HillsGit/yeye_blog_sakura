@@ -92,7 +92,9 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - http://image.yeslifeisfun.club/img/cover1.png
+  # - http://image.yeslifeisfun.club/img/cover1.png
+  - http://image.yeslifeisfun.club/img/cover2.JPG
+  - http://image.yeslifeisfun.club/img/cover3.JPG
   # - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(2).jpg.webp
   # - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(3).jpg.webp
   # - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(4).jpg.webp
