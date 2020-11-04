@@ -3,7 +3,7 @@ title: 旅行只差钱？穷游十大秘方(上）|| Top ten tips for traveling 
 date:  2019-01-18 20:34:01
 avatar: http://image.yeslifeisfun.club/img/photo.jpeg
 tags: 如何旅行
-categories: 如何旅行
+categories: 游民理财
 photo: http://image.yeslifeisfun.club/img/640-20200403142157318.jpeg
 ---
 

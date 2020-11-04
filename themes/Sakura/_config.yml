@@ -43,47 +43,42 @@ lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progre
 
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake}
-  高效率慢生活: { path: javascript:;, fa: fa-archive faa-shake,
+  成为游民: { path: javascript:;, fa: fa-archive faa-shake,
     submenus: { 
-      高效率工具: {path: /categories/生活方式/ }, 
-      项目管理: {path: /categories/游民故事/ }, 
-      时间管理: {path: /categories/资源工具/ }, 
-      慢生活理财: {path: /categories/理财/},
-      可持续生活: {path: /categories/理财/},
+      游民职场: {path: /categories/游民职场/ }, 
+      工作机会: {path: /categories/工作机会/ }, 
+      游民采访: {path: /categories/游民采访/ }, 
+      游民生活: {path: /categories/游民生活/},
+      旅行成长: {path: /categories/旅行成长/},
+      游民理财: {path: /categories/游民理财/},
+      时间管理: {path: /categories/时间管理/},
 
   } }
-  环球数字游民: { path: javascript:;, fa: fa-list-ul faa-vertical, 
+  知识店铺: { path: javascript:;, fa: fa-list-ul faa-vertical, 
     submenus: { 
-      游民资讯: {path: /categories/如何旅行/ }, 
-      环球贴士: {path: /categories/旅行故事/ },
-      遇见人生: {path: /categories/旅行故事/ },
-      告别996的人: {path: /categories/旅行故事/ }
+      游民技能: {path: /categories/如何旅行/ }, 
+      英文学习: {path: /categories/旅行故事/ },
+      好物推荐: {path: /categories/旅行故事/ },
   } }
-  成长工具: { path: javascript:;, fa: fa-pencil-square-o faa-tada,
+  咨询合作: { path: javascript:;, fa: fa-pencil-square-o faa-tada,
     submenus: { 
-      思维: {path: /categories/思维模式/ }, 
-      读书: {path: /categories/读书/ }, 
+      咨询: {path: /categories/思维模式/ }, 
+      一起办公: {path: /categories/读书/ }, 
       播客: {path: /categories/博客/ }
   } }
-  英文工具化: { path: javascript:;, fa: fa-leaf faa-wrench ,
+  游民案例: { path: javascript:;, fa: fa-leaf faa-wrench ,
     submenus: { 
-      学习经历: {path: /categories/学习经历/ }, 
-      运用思维: {path: /categories/运用思维/ }, 
-      学习包: {path: /categories/学习包/ }, 
-      资源: {path: /categories/资源/}
+      告别996: {path: /categories/告别996/ }, 
+      旅行故事: {path: /categories/运用思维/ }, 
+      在线分享: {path: /categories/学习包/ }, 
+      线下分享: {path: /categories/资源/}
   } }
-  宝石买手: { path: javascript:;, fa: fa-heart faa-pulse,
+  学用英文: { path: javascript:;, fa: fa-heart faa-pulse,
     submenus: { 
-      祖母绿花园: {path: /categories/祖母绿花园/ }, 
-      GIA证书钻石: {path: /categories/GIA证书钻石/ }, 
-      红蓝宝石: {path: /categories/红蓝宝石/ }, 
-      海蓝宝: {path: /categories/海蓝宝/},
-      求婚/婚礼定制: {path: /categories/求婚婚礼定制/},
       其他: {path: /categories/其他/}
 
   } }
-  知识星球: { path: /links/, fa: fa-link faa-shake }
-  好物推荐: { path: /links/, fa: fa-link faa-shake }
+  珠宝定制: { path: /links/, fa: fa-link faa-shake }
 
 
 # Home page sort type: -1: newer first，1: older first.
