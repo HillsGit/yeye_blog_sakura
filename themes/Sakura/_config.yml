@@ -46,7 +46,7 @@ menus:
   成为游民: { path: javascript:;, fa: fa-archive faa-shake,
     submenus: { 
       游民职场: {path: /categories/游民职场/ }, 
-      工作机会: {path: /categories/工作机会/ }, 
+      工作机会: {path: /cooperation/ }, 
       游民采访: {path: /categories/游民采访/ }, 
       游民生活: {path: /categories/游民生活/},
       旅行成长: {path: /categories/旅行成长/},
@@ -75,7 +75,7 @@ menus:
   } }
   学用英文: { path: javascript:;, fa: fa-heart faa-pulse,
     submenus: { 
-      其他: {path: /categories/其他/}
+      其他: {path: /categories/学习英文/}
 
   } }
   珠宝定制: { path: /categories/珠宝定制, fa: fa-link faa-shake,
