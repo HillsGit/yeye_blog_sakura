@@ -56,30 +56,38 @@ menus:
   } }
   知识店铺: { path: javascript:;, fa: fa-list-ul faa-vertical, 
     submenus: { 
-      游民技能: {path: /categories/如何旅行/ }, 
-      英文学习: {path: /categories/旅行故事/ },
-      好物推荐: {path: /categories/旅行故事/ },
+      游民技能: {path: /categories/游民技能/ }, 
+      英文学习: {path: /categories/英文学习/ },
+      好物推荐: {path: /categories/好物推荐/ },
   } }
   咨询合作: { path: javascript:;, fa: fa-pencil-square-o faa-tada,
     submenus: { 
-      咨询: {path: /categories/思维模式/ }, 
-      一起办公: {path: /categories/读书/ }, 
+      咨询: {path: /categories/咨询/ }, 
+      一起办公: {path: /categories/一起办公/ }, 
       播客: {path: /categories/博客/ }
   } }
   游民案例: { path: javascript:;, fa: fa-leaf faa-wrench ,
     submenus: { 
       告别996: {path: /categories/告别996/ }, 
       旅行故事: {path: /categories/运用思维/ }, 
-      在线分享: {path: /categories/学习包/ }, 
-      线下分享: {path: /categories/资源/}
+      在线分享: {path: /categories/在线分享/ }, 
+      线下分享: {path: /categories/线下分享/}
   } }
   学用英文: { path: javascript:;, fa: fa-heart faa-pulse,
     submenus: { 
       其他: {path: /categories/其他/}
 
   } }
-  珠宝定制: { path: /links/, fa: fa-link faa-shake }
+  珠宝定制: { path: /categories/珠宝定制, fa: fa-link faa-shake,
+   submenus: { 
+      祖母绿花园: {path: /categories/祖母绿花园/ }, 
+      GIA证书钻石: {path: /categories/GIA证书钻石/ }, 
+      求婚/婚礼定制: {path: /categories/求婚/婚礼定制/ }, 
+      红蓝宝石: {path: /categories/红蓝宝石/},
+      海蓝宝: {path: /categories/海蓝宝/},
+      其他: {path: /categories/其他/},
 
+  } }
 
 # Home page sort type: -1: newer first，1: older first.
 homePageSortType: -1

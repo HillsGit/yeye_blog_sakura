@@ -54,98 +54,223 @@ insight:
 # 悦读:
 #     img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/reading.jpg
 
+# category
+# 生活方式:
+#     zh: 数字游民·生活方式
+#     en: Digital nomad Lifestyle 
+#     img: http://image.yeslifeisfun.club/img/banner1.jpeg
 
+# 游民故事: 
+#     zh: 数字游民·游民故事
+#     en: Digital nomad Stories  
+#     img: http://image.yeslifeisfun.club/img/640-20200403151431013.jpeg
+# 资源工具:
+#     zh: 数字游民·资源工具
+#     en:  Digital nomad  Tools 
+#     img: http://image.yeslifeisfun.club/img/fm20200313.png
+# 理财:
+#     zh: 数字游民·理财
+#     en: Digital nomad Financial Tips 
+#     img: http://image.yeslifeisfun.club/img/fm20191206.png
+
+
+# 如何旅行:
+#     zh: 环球旅居·生活方式
+#     en: Travel tips 
+#     img: http://image.yeslifeisfun.club/img/640-20200403151856215.jpeg
+
+# 旅行故事: 
+#     zh: 环球旅居·旅行故事
+#     en: Travel stories
+#     img: http://image.yeslifeisfun.club/img/640-20200403145746264.jpeg
+
+# 项目管理:
+#     zh: 自我提升·项目管理
+#     en: self-improvement project management 
+#     img: http://image.yeslifeisfun.club/img/fm20191213.png
+# 思维模式:
+#     zh: 自我提升·思维模式
+#     en: self-improvement mindset 
+#     img: http://image.yeslifeisfun.club/img/640-20200403172917917.jpeg
+# 读书:
+#     zh: 自我提升·读书
+#     en: self-improvement reading
+#     img: http://image.yeslifeisfun.club/img/fm20200131.png
+# 播客:
+#     zh: 自我提升·播客
+#     en: self-improvement podcast
+#     img: http://image.yeslifeisfun.club/img/6.jpg
+
+# 学习经历:
+#     zh: 英语工具化·学习经历
+#     en: English leaning personal experiences
+#     img: http://image.yeslifeisfun.club/img/fm20200320.png
+# 运用思维:
+#     zh: 英语工具化·运用思维
+#     en: English leaning Use English 
+#     img: http://image.yeslifeisfun.club//img640-20200406231156034.jpeg
+# 学习包:
+#     zh: 英语工具化·学习包
+#     en: English leaning Course
+#     img: http://image.yeslifeisfun.club//img640-20200406231200392.jpeg
+# 资源:
+#     zh: 英语工具化·资源
+#     en: English leaning Tools
+#     img: http://image.yeslifeisfun.club//img640-20200406232806066.png
+
+
+# 祖母绿花园:
+#     zh: 宝石买手·祖母绿花园
+#     en:  Gemstones Emerald 
+#     img: http://image.yeslifeisfun.club/img/4.jpg
+
+# GIA证书钻石:
+#     zh: 宝石买手·GIA证书钻石
+#     en:  Gemstones Diamond (With GIA) 
+#     img: http://image.yeslifeisfun.club//img640-20200406232106366.jpeg
+
+# 红蓝宝石:
+#     zh: 宝石买手·红蓝宝石
+#     en:  Gemstones Ruby and Sapphire 
+#     img: http://image.yeslifeisfun.club/img/640-20200403173432390.jpeg
+
+# 海蓝宝:
+#     zh: 宝石买手·海蓝宝
+#     en:  Gemstones Aquamarine  
+#     img: http://image.yeslifeisfun.club/img/640-20200403173448262.jpeg
+
+# 求婚/婚礼定制:
+#     zh: 宝石买手·求婚、婚礼定制
+#     en:  Gemstones Proposal & Wedding planing  
+#     img: http://image.yeslifeisfun.club/img/640-20200403173410564.jpeg
+
+# 其他:
+#     zh: 宝石买手·其他
+#     en:  Gemstones Others
+#     img: http://image.yeslifeisfun.club/img/640-20200403173441225.jpeg
+
+#成为游民
 #category
-生活方式:
-    zh: 数字游民·生活方式
-    en: Digital nomad Lifestyle 
+游民职场:
+    zh: 成为游民·游民职场
+    en: Be a nomad · Career 
     img: http://image.yeslifeisfun.club/img/banner1.jpeg
-
-游民故事: 
-    zh: 数字游民·游民故事
-    en: Digital nomad Stories  
-    img: http://image.yeslifeisfun.club/img/640-20200403151431013.jpeg
-资源工具:
-    zh: 数字游民·资源工具
-    en:  Digital nomad  Tools 
+工作机会:
+    zh: 成为游民·工作机会
+    en: Be a nomad · Job Optunity 
     img: http://image.yeslifeisfun.club/img/fm20200313.png
-理财:
-    zh: 数字游民·理财
-    en: Digital nomad Financial Tips 
-    img: http://image.yeslifeisfun.club/img/fm20191206.png
-
-
-如何旅行:
-    zh: 环球旅居·生活方式
-    en: Travel tips 
-    img: http://image.yeslifeisfun.club/img/640-20200403151856215.jpeg
-
-旅行故事: 
-    zh: 环球旅居·旅行故事
-    en: Travel stories
-    img: http://image.yeslifeisfun.club/img/640-20200403145746264.jpeg
-
-项目管理:
-    zh: 自我提升·项目管理
-    en: self-improvement project management 
+# 一起办公:
+#     zh: 成为游民·一起办公
+#     en: Be a nomad · Know about DN
+#     img: 
+游民采访:
+    zh: 成为游民·游民采访
+    en: Be a nomad · Know about DN
     img: http://image.yeslifeisfun.club/img/fm20191213.png
-思维模式:
-    zh: 自我提升·思维模式
-    en: self-improvement mindset 
+游民生活:
+    zh: 成为游民·游民生活
+    en: Be a nomad · Nomad's life stories 
+    img: http://image.yeslifeisfun.club/img/640-20200403151856215.jpeg
+旅行成长:
+    zh: 成为游民·旅行成长
+    en: Be a nomad · Travel tips 
+    img: http://image.yeslifeisfun.club/img/640-20200403145746264.jpeg        
+游民理财:
+    zh: 成为游民·游民理财
+    en: Be a nomad · Financial
+    img: http://image.yeslifeisfun.club/img/fm20191206.png
+时间管理:
+    zh: 成为游民·时间管理
+    en: Be a nomad · Time Management
     img: http://image.yeslifeisfun.club/img/640-20200403172917917.jpeg
-读书:
-    zh: 自我提升·读书
-    en: self-improvement reading
-    img: http://image.yeslifeisfun.club/img/fm20200131.png
-播客:
-    zh: 自我提升·播客
-    en: self-improvement podcast
-    img: http://image.yeslifeisfun.club/img/6.jpg
+        
 
-学习经历:
-    zh: 英语工具化·学习经历
-    en: English leaning personal experiences
-    img: http://image.yeslifeisfun.club/img/fm20200320.png
-运用思维:
-    zh: 英语工具化·运用思维
-    en: English leaning Use English 
-    img: http://image.yeslifeisfun.club//img640-20200406231156034.jpeg
-学习包:
-    zh: 英语工具化·学习包
-    en: English leaning Course
-    img: http://image.yeslifeisfun.club//img640-20200406231200392.jpeg
-资源:
-    zh: 英语工具化·资源
-    en: English leaning Tools
+#知识店铺
+游民技能:
+    zh: 知识店铺·游民技能
+    en: Store · Skill Improvement 
+    img: http://image.yeslifeisfun.club/img/fm20200313.png
+英文学习:
+    zh: 知识店铺·英文学习
+    en: Store · Learning&Using  English 
+    img: http://image.yeslifeisfun.club/img/fm20200131.png
+好物推荐:
+    zh: 知识店铺·好物推荐
+    en: Store · Best Seller 
     img: http://image.yeslifeisfun.club//img640-20200406232806066.png
 
 
+#咨询合作
+咨询:
+    zh: 咨询合作·咨询
+    en: Consultation&cooperation · Reserve a consultaiton 
+    img: http://image.yeslifeisfun.club/img/fm20191213.png
+合作:
+    zh: 咨询合作·合作
+    en: Consultation&cooperation · Appproach a cooperation 
+    img: http://image.yeslifeisfun.club/img/fm20191213.png
+一起办公:
+    zh: 咨询合作·一起办公
+    en: Consultation&cooperation · Work together 
+    img: http://image.yeslifeisfun.club/img/fm20191213.png
+
+
+
+#游民案例
+告别996:
+    zh: 游民案例·告别996
+    en: Nomad's Storeis · Say no to 24
+    img: http://image.yeslifeisfun.club/img/640-20200403151856215.jpeg
+旅行故事:
+    zh: 游民案例·旅行故事
+    en: Nomad's Storeis · Travel Stories 
+    img: http://image.yeslifeisfun.club/img/640-20200403145746264.jpeg
+在线分享:
+    zh: 游民案例·在线分享
+    en: Nomad's Storeis · Webinar 
+    img: http://image.yeslifeisfun.club/img/640-20200403151856215.jpeg
+线下分享:
+    zh: 游民案例·线下分享
+    en: Nomad's Storeis · Onsite workshop 
+    img: http://image.yeslifeisfun.club/img/640-20200403151856215.jpeg
+
+
+
+学用英文:
+    zh: 学用英文
+    en: Learning&Using  English
+    img:  http://image.yeslifeisfun.club/img/fm20200320.png
+
+
+
+
+#珠宝定制
 祖母绿花园:
-    zh: 宝石买手·祖母绿花园
-    en:  Gemstones Emerald 
+    zh: 珠宝定制·祖母绿花园
+    en:  Customized Jewerly · Gemstones Emerald 
     img: http://image.yeslifeisfun.club/img/4.jpg
 
 GIA证书钻石:
-    zh: 宝石买手·GIA证书钻石
-    en:  Gemstones Diamond (With GIA) 
+    zh: 珠宝定制·GIA证书钻石
+    en: Customized Jewerly · Gemstones Diamond (With GIA) 
     img: http://image.yeslifeisfun.club//img640-20200406232106366.jpeg
 
 红蓝宝石:
-    zh: 宝石买手·红蓝宝石
-    en:  Gemstones Ruby and Sapphire 
+    zh: 珠宝定制·红蓝宝石
+    en: Customized Jewerly · Gemstones Ruby and Sapphire 
     img: http://image.yeslifeisfun.club/img/640-20200403173432390.jpeg
 
 海蓝宝:
-    zh: 宝石买手·海蓝宝
-    en:  Gemstones Aquamarine  
+    zh: 珠宝定制·海蓝宝
+    en: Customized Jewerly · Gemstones Aquamarine  
     img: http://image.yeslifeisfun.club/img/640-20200403173448262.jpeg
 
 求婚/婚礼定制:
-    zh: 宝石买手·求婚、婚礼定制
-    en:  Gemstones Proposal & Wedding planing  
+    zh: 珠宝定制·求婚、婚礼定制
+    en: Customized Jewerly · Gemstones Proposal & Wedding planing  
     img: http://image.yeslifeisfun.club/img/640-20200403173410564.jpeg
 
 其他:
-    zh: 宝石买手·其他
-    en:  Gemstones Others
+    zh: 珠宝定制·其他
+    en: Customized Jewerly · Gemstones Others
     img: http://image.yeslifeisfun.club/img/640-20200403173441225.jpeg
